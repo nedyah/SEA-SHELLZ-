@@ -1,10 +1,7 @@
 # Project 2: Command Line Shell
 
-See: https://www.cs.usfca.edu/~mmalensek/cs326/assignments/project-2.html
-
 Writer: Hayden Miller
 University of San Francisco
-CS 326: Operating Systems
 
 ## ABOUT 
 This project emulates a UNIX shell similar to Bash. It will do execute basic command 
